@@ -1,0 +1,88 @@
+body{
+    color: #40514e;
+    margin: 0px;
+    text-align: center;
+    margin: 0 auto ;
+    font-family: 'Dancing Script', cursive;
+}
+span{
+    text-decoration: underline;
+}
+.first-cloud{
+    position: absolute;
+    right: 350px;
+    top: 50px;
+}
+p{
+    line-height: 2;
+}
+.contact-me{
+    width: 50%;
+    margin: 0 auto;
+}
+.second-cloud{
+    position: absolute;
+    left: 300px;
+}
+table{
+    margin: 0 auto;
+}
+.top-container{
+    background-color:lavender;
+}
+.bottom-container{
+    background-color: lavender;
+    padding: 30px 0 20px;
+}
+a{
+    color: #66BFBF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color:cadetblue;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.Web-Designer-img{
+    float: left;
+    margin-right: 30px;
+}
+hr{
+    border-color: lavender;
+    border-style: dotted none none none;
+    border-width:5px;
+    width:5%;
+}
+.Software-Developer-img{
+    float: right;
+    margin: left 30px;
+}
+.Data-Operator-img{
+    float: left;
+    margin-right: 30px;
+}
+h1{
+    margin-top: 0%;
+    color: #66BFBF;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+}
+h2{
+    font-family: 'Dancing Script', cursive;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+    color: #66BFBF; 
+}
+.copyright{
+    color:#66BFBF;
+    font-size: 0.75rem;
+}
+table{
+    margin-bottom: 100px;
+}
